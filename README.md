@@ -84,6 +84,51 @@ After creating the new team, now go to "Settings" > Users. Uncheck the box for r
 Now navigate over to the "Agents" tab and click Add New Agent.
 
 
+
+
 ![JPYjAFt - Imgur](https://github.com/Brentgriffith95/post-install-config/assets/150200843/57e9c327-eac1-4a8a-a560-5ef5639164a2)
+
+Create these accounts : 
+- Name: Jane Doe
+- Email address: jane.doe@osticket.com
+- Username: jane.doe
+- Password: Password1 (or whatever you prefer).
+- Click the Access tab and set the department to SysAdmins, then select Supremem Admin for the role.
+- Now click the teams tab, select Level II support then click create.
+
+
+
+![Screenshot (113) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/e3920639-4c9e-4782-8cb7-72f1347c663f)
+
+Make sure to uncheck Require password change at next login is unchcecked.
+
+Now we will create another account.
+
+
+![Screenshot (116) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/3ff0d1f2-47b0-4a18-a308-736585fa7126)
+
+Go to the Agent Panel > Users > Add User
+
+
+
+
+
+![Screenshot (117) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/43a4dbe6-873a-496e-a144-7a036b3fa181)
+
+
+
+![Screenshot (118) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/d547d0f8-e718-4646-bc46-43caa4f9550c)
+
+These will be the the names of the following users:
+
+- Eamail Address: Ben@osticket.com
+- Full Name: Ben
+- Email Address: Karen@osticket.com
+- Full Name Karen
+
+
+![Screenshot (119) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/73bb5e64-ff09-4def-9b6b-9402d7d3c587)
+
+Navigate to the Admin Panel > Manage > SLA > New SLA Plan.
 
 
