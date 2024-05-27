@@ -132,3 +132,26 @@ These will be the the names of the following users:
 Navigate to the Admin Panel > Manage > SLA > New SLA Plan.
 
 
+
+![Screenshot (120) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/3ba2944c-af67-438f-8ceb-f9aa84ba312f)
+
+Now we are going to add the follow SLA (Service Level Agreements) plans.
+
+- SEV-A with a grace period of 1 hour and a 24/7 schedule.
+- SEV-B with a grace period of 4 hours and a 24/7 schedule.
+- SEV-C with a grace period of 8 hours and a Mon-Fri business hour schedule.
+
+   Each plan will depend on the severity of the sitution.
+
+
+
+![Screenshot (121) edit](https://github.com/Brentgriffith95/post-install-config/assets/150200843/e9c50456-8528-4553-8cd0-597a3de2c246)
+
+After we are done with adding the new SLA plans, now we will click the Help Topics tab and the following help topics:
+
+- Business Critical Outage
+- Personel Computer Issues 
+- Equipment Request
+- Password Reset
+
+After we add these topics this will conclude this tutorial.
